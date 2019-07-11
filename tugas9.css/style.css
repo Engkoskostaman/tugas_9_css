@@ -1,0 +1,23 @@
+h1{
+  text-align: right;
+  font-size:24px;
+}
+p{
+  text-align: right;
+  font-size: 13px;
+}
+img{
+  float:none;
+  z-index: 1;
+  position: fixed;
+}
+.container{
+   width: 600px;
+   height:580px;
+   background-color:white;
+   margin: 0 auto;
+   z-index: 2;
+   top:10px;
+position: relative;
+float:right;
+  }
